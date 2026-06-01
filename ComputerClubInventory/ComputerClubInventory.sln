@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36930.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComputerClubInventory", "ComputerClubInventory\ComputerClubInventory.csproj", "{AC23F97E-10F5-4E5E-807D-FFD8B2FB7AC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC23F97E-10F5-4E5E-807D-FFD8B2FB7AC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC23F97E-10F5-4E5E-807D-FFD8B2FB7AC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC23F97E-10F5-4E5E-807D-FFD8B2FB7AC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC23F97E-10F5-4E5E-807D-FFD8B2FB7AC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D875780E-D4C0-4F45-A547-13ED5C553AFF}
+	EndGlobalSection
+EndGlobal

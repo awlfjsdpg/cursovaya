@@ -1,0 +1,11 @@
+version: "3.8"
+
+services:
+  inventory-app:
+    build: .
+    container_name: computer_club_inventory
+    volumes:
+      - inventory_data:C:/app/data
+
+volumes:
+  inventory_data:
